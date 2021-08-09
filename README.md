@@ -12,3 +12,5 @@ Project 4 - Progress Bar. Prints a progress bar randomly each time.
 Project 5 - Prime Number finder. Takes a number as input and finds out if the number is a prime number or not.
 
 Project 6 - Multiplication Table. Prints the 12x12 multiplication table.
+
+Project 6 - Itunes Parser. Parses a playlist and plots interesting data
